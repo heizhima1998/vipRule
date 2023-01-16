@@ -1,5 +1,5 @@
 Member Service Agreement
-![image](https://img-blog.csdnimg.cn/832b4c09ae4846d3a3eaf9b369703d50.png)
+
 【Precautions】
 You are welcome to use the membership service provided by [Movie Poster] (hereinafter referred to as "this application").
 
@@ -8,7 +8,7 @@ Before activating membership services, please be sure to carefully read the "Mem
 This agreement is a supplementary agreement to the "Privacy Policy" and is an integral part of it. In case of any conflict between this agreement and the above content, this agreement shall prevail.
 
 If you are under the age of 18, please read this agreement accompanied by a legal guardian, and pay special attention to the terms of use for minors.
-
+![image](https://img-blog.csdnimg.cn/832b4c09ae4846d3a3eaf9b369703d50.png)
 text
 Article 1 Definition and Scope of Application
 1. "Membership Service Agreement": refers to the agreement between you and this application regarding your use of membership services, including: the text of this agreement, descriptions of member service pages, terms of service and updated versions of this agreement. Once all the constituent documents of this agreement are released/publicized, they will become an integral part of this agreement.
